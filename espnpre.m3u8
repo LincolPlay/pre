@@ -1,5 +1,4 @@
 #EXTM3U
+#EXT-X-SESSION-KEY:METHOD=AES-128,URI="data:text/plain;base64,NDcyMzBkYmM3ZjZhNGJmYTZhZDBhYTczZmY3OTIzNzQ6NDE4YTdjMmExNWY1OTBhOTM5OTg4NmZlYWVjNDI1Nw==",KEYFORMAT="identity",KEYFORMATVERSIONS="1"
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png", FOX SPORTS PREMIUM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd
+https://cdn.cvattv.com.ar/live/c4eds/Fox%20Sports%20Premiun%20HD/SA_Live_dash_enc_C/Fox%20Sports%20Premiun%20HD.mpd

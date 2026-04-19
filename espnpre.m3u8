@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-SESSION-KEY:METHOD=AES-128,URI="data:text/plain;base64,NDcyMzBkYmM3ZjZhNGJmYTZhZDBhYTczZmY3OTIzNzQ6NDE4YTdjMmExNWY1OTBhOTM5OTg4NmZlYWVjNDI1Nw==",KEYFORMAT="identity",KEYFORMATVERSIONS="1"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrNsJsP/espnpremium.png", FOX SPORTS PREMIUM
-https://cdn.cvattv.com.ar/live/c4eds/Fox%20Sports%20Premiun%20HD/SA_Live_dash_enc_C/Fox%20Sports%20Premiun%20HD.mpd
